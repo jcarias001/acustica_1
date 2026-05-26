@@ -48,7 +48,7 @@ with st.sidebar:
             **SPL = 20 × log₁₀( P / P₀ )**
 
             Donde:
-            - **P** = dB de entrada (usado como presión en la fórmula)
+            - **P** = Pa de entrada (la presión sonora que quieres convertir a dB)
             - **P₀** = 20 μPa = **2×10⁻⁵ Pa**
 
             **Ejemplo:**
